@@ -1,0 +1,31 @@
+{
+  "source_id": "indian-budgeting-framework-2024",
+  "title": "Indian Household Budgeting Framework & 50/30/20 Rule Adaptation",
+  "publisher": "National Institute of Financial Management & Indian Personal Finance Standards",
+  "category": "personal_budgeting",
+  "doc_type": "standard_framework",
+  "license": "Open Educational Framework",
+  "url": "https://nifm.ac.in/",
+  "publication_date": "2024",
+  "summary": "Practical adaptation of proportional salary allocation (50/30/20) for Indian urban and semi-urban salary earners accounting for high essential overheads, medical buffers, and systematic savings.",
+  "chunks": [
+    {
+      "chunk_id": "in-budget-01",
+      "title": "Adapted 50/30/20 Proportional Allocation for Indian Households",
+      "text": "The classic 50/30/20 rule is adapted for Indian cost structures as follows: 50% Net Inflow allocated to Essential Living Commitments (House Rent/Maintenance, Utility bills, Groceries, Children's school fees, Commute, Term/Health Insurance premiums, and existing Loan EMIs). 30% Net Inflow allocated to Discretionary Lifestyle Spending (Dining out, Entertainment, OTT subscriptions, Travel, Gadgets, and Shopping). 20% Net Inflow strictly allocated to Systematic Wealth Building & Goal Savings (SIP mutual funds, PPF, EPF contributions, NPS, and recurring deposits).",
+      "tags": ["50_30_20", "salary_allocation", "indian_context", "essentials"]
+    },
+    {
+      "chunk_id": "in-budget-02",
+      "title": "Safe-to-Spend Daily Formula and Liquidity Management",
+      "text": "The Safe-to-Spend indicator represents true discretionary liquidity left in the current pay cycle after ring-fencing upcoming fixed obligations, pending essential bills, and mandatory savings targets. Safe-to-Spend per day is calculated by dividing total uncommitted surplus by remaining days until next salary credit. If safe-to-spend approaches zero, all non-essential dining and entertainment purchases must immediately pause to prevent debt reliance.",
+      "tags": ["safe_to_spend", "daily_budget", "liquidity", "salary_cycle"]
+    },
+    {
+      "chunk_id": "in-budget-03",
+      "title": "Tax-Efficient Savings Vehicles and Long-Term Buffers",
+      "text": "Indian salary earners benefit from disciplined allocation into tax-advantaged instruments like Public Provident Fund (PPF - 15-year sovereign risk-free sovereign lock-in), Voluntary Provident Fund (VPF), and National Pension System (NPS). For emergency funds, capital should be held in High-Yield Savings Accounts or Instant Redemption Liquid Funds without tax friction upon emergency withdrawal.",
+      "tags": ["tax_savings", "ppf", "nps", "liquid_funds"]
+    }
+  ]
+}

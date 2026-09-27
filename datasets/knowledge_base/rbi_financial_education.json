@@ -1,0 +1,31 @@
+{
+  "source_id": "rbi-fin-edu-2024",
+  "title": "Reserve Bank of India — National Financial Literacy Curriculum Guidelines",
+  "publisher": "Reserve Bank of India (RBI)",
+  "category": "financial_literacy",
+  "doc_type": "public_guideline",
+  "license": "Public Domain / Government Open Information",
+  "url": "https://rbi.org.in/financialeducation/",
+  "publication_date": "2024",
+  "summary": "Core guidelines from the Reserve Bank of India on household budgeting, emergency reserve buffers, disciplined savings, and digital payment safety.",
+  "chunks": [
+    {
+      "chunk_id": "rbi-fin-edu-01",
+      "title": "Prudent Household Cash Flow and Emergency Reserve Buffer",
+      "text": "The Reserve Bank of India Financial Education initiative emphasizes establishing an emergency reserve fund covering at least 3 to 6 months of mandatory living expenses (rent, utility bills, food supplies, insurance premiums, and loan EMIs). Emergency funds must be kept in liquid or near-liquid instruments such as savings bank accounts, sweep-in fixed deposits, or liquid mutual funds. Users must never allocate emergency reserves to speculative or illiquid assets.",
+      "tags": ["emergency_fund", "cash_flow", "rbi", "liquidity"]
+    },
+    {
+      "chunk_id": "rbi-fin-edu-02",
+      "title": "Responsible Credit Utilization and Debt-to-Income Discipline",
+      "text": "RBI consumer protection guidance recommends that total monthly debt service obligations—including home loan EMIs, auto loans, personal loans, and credit card minimum dues—should strictly not exceed 40% to 50% of monthly net disposable income (Fixed Obligation to Income Ratio or FOIR). Carrying revolving credit card debt at high annual percentage rates (typically 36% to 45% per annum) causes compounding financial distress and should be prioritized for immediate retirement.",
+      "tags": ["debt_management", "credit_score", "foir", "rbi"]
+    },
+    {
+      "chunk_id": "rbi-fin-edu-03",
+      "title": "Systematic Savings and Discretionary Spending Control",
+      "text": "The basic rule of disciplined personal finance advised by RBI financial inclusion programs is: 'Income minus Planned Savings equals Permissible Expenditure', rather than saving whatever remains after spending. Consumers should automate systematic monthly savings on their salary credit day prior to incurring non-essential lifestyle expenditures.",
+      "tags": ["savings_planning", "budgeting", "rbi", "lifestyle_inflation"]
+    }
+  ]
+}

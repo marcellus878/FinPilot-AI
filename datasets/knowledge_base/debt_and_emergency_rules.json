@@ -1,0 +1,31 @@
+{
+  "source_id": "debt-and-emergency-rules-2024",
+  "title": "Debt Reduction Strategies & Emergency Fund Sizing Playbook",
+  "publisher": "Financial Planning Standards Board & Consumer Finance Education",
+  "category": "debt_and_reserves",
+  "doc_type": "practice_standard",
+  "license": "Open Financial Planning Standard",
+  "url": "https://fpsb.org/",
+  "publication_date": "2024",
+  "summary": "Standardized mathematical playbooks for debt acceleration (Avalanche vs Snowball), handling unexpected income drops or medical shocks, and adaptive replanning rules.",
+  "chunks": [
+    {
+      "chunk_id": "debt-rules-01",
+      "title": "Debt Avalanche vs. Debt Snowball Methodology",
+      "text": "When resolving multiple debt obligations, the Debt Avalanche method is mathematically optimal: all surplus cash is focused on the debt carrying the highest interest rate (e.g. credit card revolving balances at 42% APR or personal loans at 16% APR) while paying minimum dues on lower-rate debts (e.g. home loans at 8.5% APR). The Debt Snowball method focuses on the smallest balance first for psychological momentum. In both approaches, discretionary expenditures should be trimmed by 30% to 50% during the debt acceleration period.",
+      "tags": ["debt_avalanche", "debt_snowball", "interest_reduction", "repayment"]
+    },
+    {
+      "chunk_id": "debt-rules-02",
+      "title": "Adaptive Replanning Triggers During Financial Shocks",
+      "text": "When an individual experiences an unexpected financial shock—such as a >10% salary reduction, unexpected medical emergency bill, or substantial inflation in rent—the financial plan must adapt immediately: (1) Temporarily suspend discretionary milestone goals, (2) Redirect all non-essential budget surpluses to replenish the depleted emergency fund back to 3 months of baseline expenses, (3) Extend long-term goal timelines rather than liquidating provident fund or retirement assets.",
+      "tags": ["adaptive_replanning", "financial_shock", "emergency_recovery", "drift_management"]
+    },
+    {
+      "chunk_id": "debt-rules-03",
+      "title": "Prudent Large Purchase Affordability Test",
+      "text": "Before committing to a discretionary large one-time purchase (e.g. high-end laptop, luxury appliance, vehicle down payment), verify the 3-Step Affordability Rule: (1) The purchase must not reduce liquid emergency reserves below the 3-month survival floor, (2) The user must not rely on short-term high-interest credit or zero-downpayment balloon financing, (3) The resulting goal delay on higher-priority commitments must be under 3 months.",
+      "tags": ["large_purchase", "affordability_test", "counterfactuals", "decision_rules"]
+    }
+  ]
+}

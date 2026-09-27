@@ -1,0 +1,31 @@
+{
+  "source_id": "sebi-investor-edu-2024",
+  "title": "Securities and Exchange Board of India — Investor Education & Goal Planning Principles",
+  "publisher": "Securities and Exchange Board of India (SEBI)",
+  "category": "goal_planning",
+  "doc_type": "public_guideline",
+  "license": "Public Domain / SEBI Investor Awareness",
+  "url": "https://investor.sebi.gov.in/",
+  "publication_date": "2024",
+  "summary": "SEBI principles on aligning financial horizons with asset classes, multi-goal priority scheduling, risk assessment, and systematic wealth preservation.",
+  "chunks": [
+    {
+      "chunk_id": "sebi-investor-01",
+      "title": "Goal Horizon Classification and Asset-Liability Matching",
+      "text": "SEBI Investor Education guidelines prescribe mapping financial goals according to time horizons: Short-term goals (< 3 years, e.g. laptop purchase, emergency booster) require capital preservation in low-volatility fixed-income instruments like liquid funds and short-term bank deposits. Medium-term goals (3 to 7 years, e.g. car purchase, wedding) benefit from balanced asset allocation. Long-term goals (> 7 years, e.g. house purchase, retirement) permit growth-oriented equity asset classes.",
+      "tags": ["goal_planning", "asset_allocation", "sebi", "time_horizon"]
+    },
+    {
+      "chunk_id": "sebi-investor-02",
+      "title": "Resolving Competing Goals and Priority Conflicts",
+      "text": "When an individual faces concurrent goal milestones with inadequate monthly surplus, SEBI guidelines suggest strict priority ranking: (1) Mandatory risk protection (health/life insurance and emergency buffer), (2) Non-negotiable milestone goals (e.g. debt payoff, children's education), (3) Discretionary aspiration goals (e.g. luxury vacations, vehicle upgrades). Discretionary targets should undergo timeline extensions rather than compromising emergency reserves.",
+      "tags": ["goal_conflicts", "priority_ranking", "sebi", "tradeoffs"]
+    },
+    {
+      "chunk_id": "sebi-investor-03",
+      "title": "Risk Profiling and Avoidance of Speculative Over-Leverage",
+      "text": "Every personal financial plan must reflect the user's risk tolerance and loss-bearing capacity. Individuals with high monthly fixed commitments, dependents, or irregular income profiles should maintain conservative asset distributions. Over-leveraging via unsecured personal loans to fund lifestyle consumption is classified as a critical financial health hazard.",
+      "tags": ["risk_tolerance", "leverage", "sebi", "investor_protection"]
+    }
+  ]
+}
